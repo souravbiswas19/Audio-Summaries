@@ -1,4 +1,4 @@
-## Bark TTS
+## ElevenLabs TTS
 1. ElevenLabs_TTS.ipynb file of BARK TTS implementation.
 2. ElevenLabs_TTS.wav which is the output audio summary file.
 3. Task2.txt file used for BARK TTS implementation.
